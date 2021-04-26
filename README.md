@@ -1,11 +1,10 @@
 - 👋 Hi,
- 
        I’m @nitishsinghal1 A Data Scienece Enthusiast from New Delhi  currently a 3rd year student of Computer Science from The Northcap University ,Gurugram .
        An avid Kaggler and a Machine Learning Engineer. Have started doing fun stuff like contributing to Open Source.
        
 - 👀 I’m currently working on Image Processing 📷 , NLP 🈷️ and Deep learning
 
-- 🌱 I’m currently learning  Flask , Kviy 
+- 🌱 I’m currently learning  Flask , Kivy 
 
 - 💞️ I’m looking to collaborate on DL and ML projects
 
